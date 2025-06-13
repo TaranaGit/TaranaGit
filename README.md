@@ -70,4 +70,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## Updates
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaranaGit/TaranaGit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaranaGit/TaranaGit/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TaranaGit/TaranaGit/output/github-snake.svg" />
+</picture>
