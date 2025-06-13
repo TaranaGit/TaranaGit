@@ -1,13 +1,13 @@
 ### 👋 Hello! I’m Tarana — Software Developer | Passionate about AI & Machine Learning
 
-- 🎓 Master's in Software Engineering | Ontario Tech University, Canada  
-- 💻 4+ years of experience building scalable backend systems and interactive UIs  
-- 🌐 Skilled in React, Node.js, JavaScript, Java, and Python
-- ☁️ <a href="https://www.credly.com/badges/10ec7406-abfd-4409-bfa6-2cf3797fe568/public_url" target="_blank">AWS Certified Solutions Architect Associate</a> |
+🎓 Master's in Software Engineering | Ontario Tech University, Canada  
+💻 4+ years of experience building scalable backend systems and interactive UIs  
+🌐 Skilled in React, Node.js, JavaScript, Java, and Python
+☁️ <a href="https://www.credly.com/badges/10ec7406-abfd-4409-bfa6-2cf3797fe568/public_url" target="_blank">AWS Certified Solutions Architect Associate</a> |
 <a href="https://www.linkedin.com/company/udemy/">AWS Certified Cloud Practitioner</a>
-- 📊 Past research in Machine Learning, IoT, and network optimization ( <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=JLArigoAAAAJ" target="_blank">IEEE Publications</a>)  
-- 🚀 Currently focused on building MVPs, contributing to open source, and learning system design  
-- 🤝 Let’s connect & collaborate — I’m always up for innovative tech challenges!
+🧠 Research Field — Machine Learning, AI, IoT, Wireless Sensor networks( <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=JLArigoAAAAJ" target="_blank">IEEE Publications</a>)  
+🚀 Currently focused on building MVPs, contributing to open source, and  applying AI to solve impactful, real-time challenges.
+🤝 Let’s connect & collaborate — I’m always up for innovative tech challenges!
 
 
 ### 🛠 Languages & Tools </br>
